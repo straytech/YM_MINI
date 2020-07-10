@@ -15,11 +15,11 @@ The synth can be played via a live controller like monome or Oxygen8, or any mid
 
 #### Files
 
-**YM_MINI_Build.pdf** : The original kit building instructions
-**YM_MINI_Inst.pdf** : The original Software instructions
-**YM2149_VR1.ino** : The original Arduino firmware for the YM_MINI
-**YM_Mini_schematic**: Schematic for the synth
-**LICENSE** : GPL-3.0 License
+**YM_MINI_Build.pdf** : The original kit building instructions  
+**YM_MINI_Inst.pdf** : The original Software instructions  
+**YM2149_VR1.ino** : The original Arduino firmware for the YM_MINI  
+**YM_Mini_schematic**: Schematic for the synth  
+**LICENSE** : GPL-3.0 License  
 **README.md** : This file
 
 #### Useful Links
